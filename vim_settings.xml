@@ -1,0 +1,41 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/redis/src/server.h" timestamp="1503134839899">
+        <mark key="'" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="721" column="4" filename="$USER_HOME$/workspace/redis/src/server.h" />
+      <jump line="775" column="4" filename="$USER_HOME$/workspace/redis/src/server.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/redis/src/server.h" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text encoding="base64">XDxkaWN0XD4=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxkaWN0XD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxkaWN0XD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxkaWN0XD4=</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
