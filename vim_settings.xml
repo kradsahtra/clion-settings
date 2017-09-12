@@ -3,9 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1505214354035">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/redis/src/server.h" timestamp="1503134839899">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/db_tutorial/main.c" timestamp="1505214434543" />
     </filemarks>
     <jumps>
       <jump line="721" column="4" filename="$USER_HOME$/workspace/redis/src/server.h" />
@@ -35,6 +39,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
