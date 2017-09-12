@@ -9,28 +9,72 @@
       <file name="$USER_HOME$/workspace/redis/src/server.h" timestamp="1503134839899">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/db_tutorial/main.c" timestamp="1505214434543" />
+      <file name="$USER_HOME$/workspace/db_tutorial/main.c" timestamp="1505221943463">
+        <mark key="'" line="35" column="22" />
+        <mark key="[" line="48" column="72" />
+        <mark key="]" line="48" column="72" />
+        <mark key="." line="48" column="72" />
+        <mark key="^" line="48" column="72" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="721" column="4" filename="$USER_HOME$/workspace/redis/src/server.h" />
       <jump line="775" column="4" filename="$USER_HOME$/workspace/redis/src/server.h" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/redis/src/server.h" />
+      <jump line="23" column="12" filename="$USER_HOME$/workspace/db_tutorial/main.c" />
+      <jump line="8" column="12" filename="$USER_HOME$/workspace/db_tutorial/main.c" />
+      <jump line="17" column="18" filename="$USER_HOME$/workspace/db_tutorial/main.c" />
+      <jump line="35" column="22" filename="$USER_HOME$/workspace/db_tutorial/main.c" />
     </jumps>
     <registers>
+      <register name="0" type="4">
+        <text>new_input_buffer</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>%s</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiSGVsbG8sIFdvcmxkIVxuIik7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0KICAgIHJldHVybiAwOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiSGVsbG8sIFdvcmxkIVxuIik7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludF9wcm9tcHQoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZWFkCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>%s</text>
+      </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaWN0XD4=</text>
+        <text encoding="base64">XDxpbnB1dF9sZW5ndGhcPg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaWN0XD4=</last-search>
+      <last-search encoding="base64">XDxpbnB1dF9sZW5ndGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaWN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpbnB1dF9sZW5ndGhcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxkaWN0XD4=</entry>
+        <entry encoding="base64">XDxpbnB1dF9sZW5ndGhcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
