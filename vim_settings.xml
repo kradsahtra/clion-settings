@@ -6,6 +6,12 @@
       <file name="/Dummy.txt" timestamp="1505214354035">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/tiny_renderer/tga_image.h" timestamp="1526892472255">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/redis/src/server.h" timestamp="1503134839899">
         <mark key="'" line="0" column="0" />
       </file>
@@ -25,43 +31,52 @@
       <jump line="8" column="12" filename="$USER_HOME$/workspace/db_tutorial/main.c" />
       <jump line="17" column="18" filename="$USER_HOME$/workspace/db_tutorial/main.c" />
       <jump line="35" column="22" filename="$USER_HOME$/workspace/db_tutorial/main.c" />
+      <jump line="95" column="20" filename="$USER_HOME$/workspace/tiny_renderer/tga_image.h" />
+      <jump line="10" column="18" filename="$USER_HOME$/workspace/tiny_renderer/tga_image.h" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/tiny_renderer/tga_image.h" />
+      <jump line="7" column="33" filename="$USER_HOME$/workspace/tiny_renderer/tga_image.h" />
+      <jump line="73" column="4" filename="$USER_HOME$/workspace/tiny_renderer/tga_image.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/tiny_renderer/tga_image.h" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>new_input_buffer</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>%s</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiSGVsbG8sIFdvcmxkIVxuIik7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0KICAgIHJldHVybiAwOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiSGVsbG8sIFdvcmxkIVxuIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9wcm9tcHQoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>%s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dF9sZW5ndGhcPg==</text>
+      </register>
+      <register name="0" type="4">
+        <text>new_input_buffer</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">I2lmbmRlZiBfX0lNQUdFX0hfXwojZGVmaW5lIF9fSU1BR0VfSF9fCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">I2VuZGlmIC8vX19JTUFHRV9IX18K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBkayBvbiA1LzIxLzE4LgovLwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
