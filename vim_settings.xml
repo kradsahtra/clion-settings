@@ -19,8 +19,8 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/tiny_renderer/tag_image.cpp" timestamp="1526955630413">
-        <mark key="'" line="320" column="46" />
+      <file name="$USER_HOME$/workspace/tiny_renderer/tag_image.cpp" timestamp="1526983089062">
+        <mark key="'" line="5" column="0" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
@@ -58,6 +58,8 @@
       <jump line="320" column="46" filename="$USER_HOME$/workspace/tiny_renderer/tag_image.cpp" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/tiny_renderer/main.cpp" />
       <jump line="17" column="20" filename="$USER_HOME$/workspace/tiny_renderer/main.cpp" />
+      <jump line="165" column="19" filename="$USER_HOME$/workspace/tiny_renderer/tag_image.cpp" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/tiny_renderer/tag_image.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
