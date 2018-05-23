@@ -6,6 +6,7 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
+  <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="CIDR.Lang.IntroduceParameter" />
   <action id="ClangTidy.ShowInfoAction">
     <keyboard-shortcut first-keystroke="ctrl meta m" />
@@ -13,6 +14,7 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />

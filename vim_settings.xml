@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1527065225881">
+      <file name="/Dummy.txt" timestamp="1527068599257">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/tiny_renderer/tga_image.h" timestamp="1526892472255">
         <mark key="'" line="0" column="0" />
@@ -12,12 +15,18 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tiny_renderer/main.cpp" timestamp="1527065820045">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="3" />
+      <file name="$USER_HOME$/workspace/tiny_renderer/model.cpp" timestamp="1527069547244">
+        <mark key="'" line="32" column="9" />
+      </file>
+      <file name="/Bash" timestamp="1527069524841">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/tiny_renderer/main.cpp" timestamp="1527068535681">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tiny_renderer/tag_image.cpp" timestamp="1526893541691">
         <mark key="'" line="320" column="46" />
@@ -25,8 +34,14 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/tiny_renderer/geometry.h" timestamp="1527068209974">
+        <mark key="'" line="41" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/redis/src/server.h" timestamp="1503134839899">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/tiny_renderer/obj/african_head.obj" timestamp="1527068461522">
+        <mark key="'" line="6346" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/db_tutorial/main.c" timestamp="1505221943463">
         <mark key="'" line="35" column="22" />
@@ -64,52 +79,62 @@
       <jump line="18" column="58" filename="$USER_HOME$/workspace/tiny_renderer/main.cpp" />
       <jump line="31" column="8" filename="$USER_HOME$/workspace/tiny_renderer/main.cpp" />
       <jump line="35" column="0" filename="$USER_HOME$/workspace/tiny_renderer/main.cpp" />
+      <jump line="41" column="25" filename="$USER_HOME$/workspace/tiny_renderer/geometry.h" />
+      <jump line="53" column="0" filename="$USER_HOME$/workspace/tiny_renderer/model.cpp" />
+      <jump line="61" column="0" filename="$USER_HOME$/workspace/tiny_renderer/main.cpp" />
+      <jump line="7" column="51" filename="$USER_HOME$/workspace/tiny_renderer/main.cpp" />
+      <jump line="6346" column="45" filename="$USER_HOME$/workspace/tiny_renderer/obj/african_head.obj" />
+      <jump line="47" column="4" filename="$USER_HOME$/workspace/tiny_renderer/main.cpp" />
+      <jump line="47" column="14" filename="$USER_HOME$/workspace/tiny_renderer/model.cpp" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/tiny_renderer/model.cpp" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/tiny_renderer/model.cpp" />
+      <jump line="32" column="9" filename="$USER_HOME$/workspace/tiny_renderer/model.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIng6ICIgPDwgeCA8PCAiLCB5OiAiIDw8IHkgPDwgIlxuIjsK</text>
       </register>
       <register name="-" type="4">
         <text>::</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnB1dF9sZW5ndGhcPg==</text>
+        <text encoding="base64">XDxjZXJyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW1hZ2Uuc2V0KHgsIHksIGNvbG9yKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIng6ICIgPDwgeCA8PCAiLCB5OiAiIDw8IHkgPDwgIlxuIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCBjb3VudCA9IGFicyh4MSAtIHgwKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCBjb3VudCA9IGFicyh4MSAtIHgwKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZS5zZXQoeCwgeSwgY29sb3IpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZS5zZXQoeCwgeSwgY29sb3IpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RlZXApeyAKICAgICAgICAgICAgCiAgICAgICAgfWVsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RlZXApeyAKICAgICAgICAgICAgCiAgICAgICAgfWVsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGFsZ29yaXRobT4K</text>
+        <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4K</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnB1dF9sZW5ndGhcPg==</last-search>
+      <last-search encoding="base64">XDxjZXJyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnB1dF9sZW5ndGhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjZXJyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -117,6 +142,7 @@
       <history-search>
         <entry encoding="base64">XDxkaWN0XD4=</entry>
         <entry encoding="base64">XDxpbnB1dF9sZW5ndGhcPg==</entry>
+        <entry encoding="base64">XDxjZXJyXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
