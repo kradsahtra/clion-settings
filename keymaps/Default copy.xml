@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
@@ -9,6 +13,8 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
