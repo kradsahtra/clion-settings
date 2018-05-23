@@ -12,12 +12,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tiny_renderer/main.cpp" timestamp="1527063069433">
-        <mark key="'" line="18" column="57" />
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="24" />
-        <mark key="^" line="2" column="18" />
+      <file name="$USER_HOME$/workspace/tiny_renderer/main.cpp" timestamp="1527063536580">
+        <mark key="'" line="16" column="58" />
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="26" />
+        <mark key="." line="20" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/tiny_renderer/tag_image.cpp" timestamp="1526893541691">
         <mark key="'" line="320" column="46" />
@@ -61,46 +60,47 @@
       <jump line="13" column="4" filename="$USER_HOME$/workspace/tiny_renderer/main.cpp" />
       <jump line="10" column="8" filename="$USER_HOME$/workspace/tiny_renderer/main.cpp" />
       <jump line="14" column="57" filename="$USER_HOME$/workspace/tiny_renderer/main.cpp" />
+      <jump line="18" column="58" filename="$USER_HOME$/workspace/tiny_renderer/main.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnN3YXAoeDAsIHkwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tag</text>
+        <text>std::</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dF9sZW5ndGhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnN3YXAoeDAsIHkwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2Uuc2V0KHgsIHksIGNvbG9yKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGdtcHh4Lmg+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGdtcHh4Lmg+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInRnYWltYWdlLmgiCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZS5zZXQoeCwgeSwgY29sb3IpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgdAo=</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IiIK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RlZXApeyAKICAgICAgICAgICAgCiAgICAgICAgfWVsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBkayBvbiA1LzIxLzE4LgovLwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGFsZ29yaXRobT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGdtcHh4Lmg+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2lmbmRlZiBfX0lNQUdFX0hfXwojZGVmaW5lIF9fSU1BR0VfSF9fCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGdtcHh4Lmg+Cg==</text>
       </register>
     </registers>
     <search>
