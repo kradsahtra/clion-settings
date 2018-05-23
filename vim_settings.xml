@@ -12,12 +12,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tiny_renderer/main.cpp" timestamp="1527042255342">
+      <file name="$USER_HOME$/workspace/tiny_renderer/main.cpp" timestamp="1527060125804">
         <mark key="'" line="18" column="20" />
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="27" />
-        <mark key="." line="6" column="27" />
-        <mark key="^" line="6" column="27" />
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/tiny_renderer/tag_image.cpp" timestamp="1526983089062">
         <mark key="'" line="5" column="0" />
@@ -62,11 +62,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/workspace/tiny_renderer/tag_image.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInRnYWltYWdlLmgiCg==</text>
+      <register name="&quot;" type="4">
+        <text>x1 - x0</text>
       </register>
       <register name="-" type="4">
-        <text>tag</text>
+        <text>x1 - x0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dF9sZW5ndGhcPg==</text>
