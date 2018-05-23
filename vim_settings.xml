@@ -12,15 +12,15 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tiny_renderer/main.cpp" timestamp="1527060125804">
-        <mark key="'" line="18" column="20" />
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="27" />
-        <mark key="." line="7" column="20" />
-        <mark key="^" line="7" column="19" />
+      <file name="$USER_HOME$/workspace/tiny_renderer/main.cpp" timestamp="1526893621178">
+        <mark key="'" line="17" column="20" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/tiny_renderer/tag_image.cpp" timestamp="1526983089062">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/workspace/tiny_renderer/tag_image.cpp" timestamp="1526893541691">
+        <mark key="'" line="320" column="46" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
@@ -58,15 +58,13 @@
       <jump line="320" column="46" filename="$USER_HOME$/workspace/tiny_renderer/tag_image.cpp" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/tiny_renderer/main.cpp" />
       <jump line="17" column="20" filename="$USER_HOME$/workspace/tiny_renderer/main.cpp" />
-      <jump line="165" column="19" filename="$USER_HOME$/workspace/tiny_renderer/tag_image.cpp" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/tiny_renderer/tag_image.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x1 - x0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2luY2x1ZGUgInRnYWltYWdlLmgiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>x1 - x0</text>
+        <text>tag</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dF9sZW5ndGhcPg==</text>
