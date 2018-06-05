@@ -34,6 +34,13 @@
       <file name="$USER_HOME$/workspace/tiny_renderer/obj/african_head.obj" timestamp="1527068461522">
         <mark key="'" line="6346" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/cv/play_video.cpp" timestamp="1528168937547">
+        <mark key="'" line="6" column="28" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/cv/DisplayImage.cpp" timestamp="1528106657644">
         <mark key="'" line="18" column="26" />
       </file>
@@ -105,13 +112,14 @@
       <jump line="12" column="8" filename="$USER_HOME$/workspace/cv/DisplayImage.cpp" />
       <jump line="14" column="15" filename="$USER_HOME$/workspace/cv/DisplayImage.cpp" />
       <jump line="18" column="26" filename="$USER_HOME$/workspace/cv/DisplayImage.cpp" />
+      <jump line="5" column="28" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dDw8ICJyZWFkIGRvbmUuIiA8PCAiXG4iOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PD4=</text>
       </register>
       <register name="-" type="4">
-        <text>img</text>
+        <text encoding="base64">PD4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZVw+</text>
@@ -120,31 +128,31 @@
         <text encoding="base64">ICAgIGN2OjppbXNob3coIm9yaWdpbmFsIGltZyIsIGltZyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dDw8ICJyZWFkIGRvbmUuIiA8PCAiXG4iOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIng6ICIgPDwgeCA8PCAiLCB5OiAiIDw8IHkgPDwgIlxuIjsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPG9wZW5jdjIvaW1ncHJvYy9pbWdwcm9jLmhwcD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBkayBvbiA2LzUvMTguCi8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBjb3VudCA9IGFicyh4MSAtIHgwKTsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dDw8ICJyZWFkIGRvbmUuIiA8PCAiXG4iOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIng6ICIgPDwgeCA8PCAiLCB5OiAiIDw8IHkgPDwgIlxuIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZS5zZXQoeCwgeSwgY29sb3IpOwo=</text>
+        <text encoding="base64">ICAgIGludCBjb3VudCA9IGFicyh4MSAtIHgwKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RlZXApeyAKICAgICAgICAgICAgCiAgICAgICAgfWVsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
