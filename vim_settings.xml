@@ -40,12 +40,12 @@
       <file name="$USER_HOME$/workspace/tiny_renderer/obj/african_head.obj" timestamp="1527068461522">
         <mark key="'" line="6346" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/cv/play_video.cpp" timestamp="1528169448412">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-        <mark key="^" line="0" column="16" />
+      <file name="$USER_HOME$/workspace/cv/play_video.cpp" timestamp="1528183326319">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="14" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/cv/DisplayImage.cpp" timestamp="1528106657644">
         <mark key="'" line="18" column="26" />
@@ -130,16 +130,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>load_image</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>load_image</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPcGVuQ1ZfTElCU1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKGxvYWRfaW1hZ2UgJHtPcGVuQ1ZfTElCU30pCg==</text>
+      <register name="0" type="4">
+        <text>Play Video</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I2luY2x1ZGUgPHN0cmluZy5oPgo=</text>
