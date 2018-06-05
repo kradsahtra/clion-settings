@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1527068599257">
+      <file name="/Dummy.txt" timestamp="1528166997936">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -15,6 +15,34 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/cv/load_image.cpp" timestamp="1528166899998">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="14" column="34" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/tiny_renderer/tag_image.cpp" timestamp="1526893541691">
+        <mark key="'" line="320" column="46" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/tiny_renderer/geometry.h" timestamp="1527068209974">
+        <mark key="'" line="41" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/tiny_renderer/obj/african_head.obj" timestamp="1527068461522">
+        <mark key="'" line="6346" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/cv/DisplayImage.cpp" timestamp="1528106657644">
+        <mark key="'" line="18" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/db_tutorial/main.c" timestamp="1505221943463">
+        <mark key="'" line="35" column="22" />
+        <mark key="[" line="48" column="72" />
+        <mark key="]" line="48" column="72" />
+        <mark key="." line="48" column="72" />
+        <mark key="^" line="48" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/tiny_renderer/model.cpp" timestamp="1527069547244">
         <mark key="'" line="32" column="9" />
@@ -29,30 +57,8 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tiny_renderer/tag_image.cpp" timestamp="1526893541691">
-        <mark key="'" line="320" column="46" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/tiny_renderer/geometry.h" timestamp="1527068209974">
-        <mark key="'" line="41" column="25" />
-      </file>
       <file name="$USER_HOME$/workspace/redis/src/server.h" timestamp="1503134839899">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/tiny_renderer/obj/african_head.obj" timestamp="1527068461522">
-        <mark key="'" line="6346" column="45" />
-      </file>
-      <file name="$USER_HOME$/workspace/cv/DisplayImage.cpp" timestamp="1528106657644">
-        <mark key="'" line="18" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/db_tutorial/main.c" timestamp="1505221943463">
-        <mark key="'" line="35" column="22" />
-        <mark key="[" line="48" column="72" />
-        <mark key="]" line="48" column="72" />
-        <mark key="." line="48" column="72" />
-        <mark key="^" line="48" column="72" />
       </file>
     </filemarks>
     <jumps>
@@ -102,43 +108,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIng6ICIgPDwgeCA8PCAiLCB5OiAiIDw8IHkgPDwgIlxuIjsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dDw8ICJyZWFkIGRvbmUuIiA8PCAiXG4iOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>::</text>
+        <text>img</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2Uuc2V0KHgsIHksIGNvbG9yKTsK</text>
+        <text encoding="base64">ICAgIGN2OjppbXNob3coIm9yaWdpbmFsIGltZyIsIGltZyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIng6ICIgPDwgeCA8PCAiLCB5OiAiIDw8IHkgPDwgIlxuIjsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dDw8ICJyZWFkIGRvbmUuIiA8PCAiXG4iOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIng6ICIgPDwgeCA8PCAiLCB5OiAiIDw8IHkgPDwgIlxuIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCBjb3VudCA9IGFicyh4MSAtIHgwKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCBjb3VudCA9IGFicyh4MSAtIHgwKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZS5zZXQoeCwgeSwgY29sb3IpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZS5zZXQoeCwgeSwgY29sb3IpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RlZXApeyAKICAgICAgICAgICAgCiAgICAgICAgfWVsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RlZXApeyAKICAgICAgICAgICAgCiAgICAgICAgfWVsCg==</text>
       </register>
     </registers>
     <search>
