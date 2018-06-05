@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1528184132676">
+      <file name="/Dummy.txt" timestamp="1528186964483">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -40,12 +40,12 @@
       <file name="$USER_HOME$/workspace/tiny_renderer/obj/african_head.obj" timestamp="1527068461522">
         <mark key="'" line="6346" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/cv/play_video.cpp" timestamp="1528184120295">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="53" />
-        <mark key="." line="7" column="53" />
-        <mark key="^" line="7" column="53" />
+      <file name="$USER_HOME$/workspace/cv/play_video.cpp" timestamp="1528188032772">
+        <mark key="'" line="32" column="76" />
+        <mark key="[" line="60" column="9" />
+        <mark key="]" line="61" column="16" />
+        <mark key="." line="61" column="16" />
+        <mark key="^" line="61" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/cv/DisplayImage.cpp" timestamp="1528106657644">
         <mark key="'" line="18" column="26" />
@@ -127,46 +127,48 @@
       <jump line="8" column="0" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
       <jump line="6" column="35" filename="$USER_HOME$/workspace/cv/CMakeLists.txt" />
       <jump line="7" column="35" filename="$USER_HOME$/workspace/cv/CMakeLists.txt" />
+      <jump line="26" column="4" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
+      <jump line="32" column="76" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBhcmdjIDw8ICJcbiI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Single</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;missing video path parameters.&quot;</text>
+        <text>Single</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPcGVuQ1ZfTElCU1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIm1pc3NpbmcgdmlkZW8gcGF0aCBwYXJhbWV0ZXJzLiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYyA9PSAncycpIHsKICAgICAgICAgICAgZ19ydW4gPSAxOwogICAgICAgICAgICBzdGQ6OmNvdXQgPDwgIlNpbmdsZSBzdGVwLCBydW4gPSAiIDw8IGdfcnVuIDw8IHN0ZDo6ZW5kbDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBhcmdjIDw8ICJcbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZy5oPgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3Y6OndhaXRLZXkoMzMpID49IDApIGJyZWFrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN2Ojp3YWl0S2V5KDMzKSA+PSAwKSBicmVhazsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG9wZW5jdjIvaW1ncHJvYy9pbWdwcm9jLmhwcD4K</text>
+        <text encoding="base64">ICAgICAgICBnX2NhcCA+PiBmcmFtZTsKICAgICAgICBpZiAoZnJhbWUuZW1wdHkoKSkgYnJlYWs7CiAgICAgICAgY3Y6Omltc2hvdygiUGxheSBWaWRlbyIsIGZyYW1lKTsKICAgICAgICBpZiAoY3Y6OndhaXRLZXkoMzMpID49IDApIGJyZWFrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBkayBvbiA2LzUvMTguCi8vCg==</text>
+        <text encoding="base64">ICAgIGN2OjpWaWRlb0NhcHR1cmUgY2FwdHVyZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dDw8ICJyZWFkIGRvbmUuIiA8PCAiXG4iOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBhcmdjIDw8ICJcbiI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OmNvdXQgPDwgIng6ICIgPDwgeCA8PCAiLCB5OiAiIDw8IHkgPDwgIlxuIjsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZy5oPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCBjb3VudCA9IGFicyh4MSAtIHgwKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPG9wZW5jdjIvaW1ncHJvYy9pbWdwcm9jLmhwcD4K</text>
       </register>
     </registers>
     <search>
