@@ -21,7 +21,8 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/cv/CMakeLists.txt" timestamp="1528169633503">
+      <file name="$USER_HOME$/workspace/cv/CMakeLists.txt" timestamp="1528182344433">
+        <mark key="'" line="7" column="35" />
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="31" />
         <mark key="." line="7" column="31" />
@@ -124,6 +125,8 @@
       <jump line="105" column="0" filename="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/string.h" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
+      <jump line="6" column="35" filename="$USER_HOME$/workspace/cv/CMakeLists.txt" />
+      <jump line="7" column="35" filename="$USER_HOME$/workspace/cv/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -133,7 +136,7 @@
         <text>load_image</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbWFnZVw+</text>
+        <text encoding="base64">XDxPcGVuQ1ZfTElCU1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKGxvYWRfaW1hZ2UgJHtPcGVuQ1ZfTElCU30pCg==</text>
@@ -167,9 +170,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbWFnZVw+</last-search>
+      <last-search encoding="base64">XDxPcGVuQ1ZfTElCU1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbWFnZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxPcGVuQ1ZfTElCU1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -179,6 +182,7 @@
         <entry encoding="base64">XDxpbnB1dF9sZW5ndGhcPg==</entry>
         <entry encoding="base64">XDxjZXJyXD4=</entry>
         <entry encoding="base64">XDxpbWFnZVw+</entry>
+        <entry encoding="base64">XDxPcGVuQ1ZfTElCU1w+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
