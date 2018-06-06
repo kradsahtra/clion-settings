@@ -38,12 +38,12 @@
       <file name="$USER_HOME$/workspace/tiny_renderer/obj/african_head.obj" timestamp="1527068461522">
         <mark key="'" line="6346" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/cv/play_video.cpp" timestamp="1528273152014">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="43" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="11" />
+      <file name="$USER_HOME$/workspace/cv/play_video.cpp" timestamp="1528274905455">
+        <mark key="'" line="11" column="8" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/cv/DisplayImage.cpp" timestamp="1528106657644">
         <mark key="'" line="18" column="26" />
@@ -148,57 +148,65 @@
       <jump line="74" column="16" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
       <jump line="80" column="16" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
       <jump line="83" column="16" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
-      <jump line="6" column="12" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
       <jump line="33" column="12" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
       <jump line="43" column="16" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
       <jump line="50" column="19" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
+      <jump line="19" column="4" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
+      <jump line="31" column="14" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
+      <jump line="35" column="0" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
+      <jump line="45" column="22" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
+      <jump line="47" column="47" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
+      <jump line="62" column="22" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
+      <jump line="66" column="43" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
+      <jump line="6" column="17" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
+      <jump line="11" column="8" filename="$USER_HOME$/workspace/cv/play_video.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIHdpbmRvd19uYW1lID0gIlBsYXkgVmlkZW8iOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgLyoqLyAK</text>
       </register>
       <register name="-" type="4">
-        <text>run</text>
+        <text>g_cap</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnX21vZGVcPg==</text>
+        <text encoding="base64">XDxnX2NhcFw+</text>
       </register>
       <register name="0" type="4">
-        <text>window_name</text>
+        <text>globalCap()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIHdpbmRvd19uYW1lID0gIlBsYXkgVmlkZW8iOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgLyoqLyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RkOjpzdHJpbmcgZ19tb2RlID0gInN0ZXAiOyAgLy9ydW4sIHN0ZXAsIHBhdXNlCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBjYXA7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBzdGQ6OnN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2FwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3RkOjpzdHJpbmcgZ19tb2RlID0gInN0ZXAiOyAgLy9ydW4sIHN0ZXAsIHBhdXNlCg==</text>
+        <text encoding="base64">Y3Y6OlZpZGVvQ2FwdHVyZSBnX2NhcDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkMzE0N2NmMTZmYmNiNGE5Y2ZjY2ZiZGM5ODFiMTIyZTdhNzQzOTdmCg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIHdpbmRvd19uYW1lID0gIlBsYXkgVmlkZW8iOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIGdfZG9udHNldCA9IDE7Cj09PT09PT0K</text>
+        <text encoding="base64">c3RkOjpzdHJpbmcgZ19tb2RlID0gInN0ZXAiOyAgLy9ydW4sIHN0ZXAsIHBhdXNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Y6OnNldFRyYWNrYmFyUG9zKCJQb3NpdGlvbiIsICJQbGF5IFZpZGVvIiwgY3VycmVudF9wb3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Y6OnNldFRyYWNrYmFyUG9zKCJQb3NpdGlvbiIsIHdpbmRvd19uYW1lLCBjdXJyZW50X3Bvcyk7Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBzdGQ6OnN0cmluZwo=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnX21vZGVcPg==</last-search>
+      <last-search encoding="base64">XDxnX2NhcFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnX21vZGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnX2NhcFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -211,6 +219,7 @@
         <entry encoding="base64">XDxPcGVuQ1ZfTElCU1w+</entry>
         <entry encoding="base64">XDxnX3J1blw+</entry>
         <entry encoding="base64">XDxnX21vZGVcPg==</entry>
+        <entry encoding="base64">XDxnX2NhcFw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
