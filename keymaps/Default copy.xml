@@ -24,6 +24,9 @@
   <action id="EditorSplitLine" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
@@ -40,14 +43,12 @@
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="meta j" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
-  <action id="GotoTypeDeclaration">
-    <keyboard-shortcut first-keystroke="shift meta j" />
-  </action>
+  <action id="GotoTypeDeclaration" />
   <action id="InsertLiveTemplate" />
   <action id="IntroduceParameter" />
   <action id="NewElement">
