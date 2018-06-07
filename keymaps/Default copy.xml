@@ -8,6 +8,9 @@
   </action>
   <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="CIDR.Lang.IntroduceParameter" />
+  <action id="CMake.ReloadCMakeProject">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="ClangTidy.ShowInfoAction">
     <keyboard-shortcut first-keystroke="ctrl meta m" />
   </action>

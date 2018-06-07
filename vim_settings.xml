@@ -77,11 +77,17 @@
       <file name="$USER_HOME$/workspace/redis/src/server.h" timestamp="1503134839899">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/cv/play_camera.cpp" timestamp="1528338022508">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="26" column="22" />
+      <file name="$USER_HOME$/workspace/cv/play_camera.cpp" timestamp="1528340566748">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="17" column="4" />
         <mark key="." line="26" column="22" />
         <mark key="^" line="26" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/cv/write_camare.cpp" timestamp="1528341050847">
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="42" column="22" />
+        <mark key="^" line="42" column="22" />
+        <mark key="." line="42" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -170,43 +176,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UoIm5hbWU6ICR7bmFtZX0sIHNvdXJjZWZpbGU6ICR7c291cmNlZmlsZX0sIG9wZW5jdl9saWJzOiAke09wZW5DVl9MSUJTfSIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>matchShapes()</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnX2NhcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZyYW1lLmVtcHR5KCkpIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgIGlmICghY2FwdHVyZS5pc09wZW5lZCgpKSB7CiAgICAgICAgc3RkOjpjZXJyIDw8ICJDb3VsZG4ndCBvcGVuIGNhcHR1cmUuIiA8PCBzdGQ6OmVuZGw7CiAgICAgICAgcmV0dXJuIC0xOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UoIm5hbWU6ICR7bmFtZX0sIHNvdXJjZWZpbGU6ICR7c291cmNlZmlsZX0sIG9wZW5jdl9saWJzOiAke09wZW5DVl9MSUJTfSIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXJtaW5hdGUK</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UoIm5hbWU6ICR7bmFtZX0sIHNvdXJjZWZpbGU6ICR7c291cmNlZmlsZX0sIG9wZW5jdl9saWJzOiAke09wZW5DVl9MSUJTfSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gLTE7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXJtaW5hdGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgLyoqLyAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gLTE7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjYXA7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgLyoqLyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBjYXA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2FwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3Y6OlZpZGVvQ2FwdHVyZSBnX2NhcDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2FwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIHdpbmRvd19uYW1lID0gIlBsYXkgVmlkZW8iOwo=</text>
+        <text encoding="base64">Y3Y6OlZpZGVvQ2FwdHVyZSBnX2NhcDsK</text>
       </register>
     </registers>
     <search>
