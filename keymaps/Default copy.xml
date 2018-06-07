@@ -14,8 +14,11 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="Console.Execute.Multiline" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorSplitLine" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="Forward">
@@ -63,4 +66,11 @@
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="ctrl meta m" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta y" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="ViewSource" />
 </keymap>
