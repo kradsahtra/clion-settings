@@ -78,6 +78,12 @@
       <file name="$USER_HOME$/workspace/redis/src/server.h" timestamp="1503134839899">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/cv/play_camera.cpp" timestamp="1528337235260">
+        <mark key="[" line="15" column="59" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="16" column="17" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="721" column="4" filename="$USER_HOME$/workspace/redis/src/server.h" />
@@ -165,10 +171,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cv::VideoCapture</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>cv::VideoCapture</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnX2NhcFw+</text>
@@ -177,31 +183,31 @@
         <text>globalCap()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3RydWN0IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoKICogc2dlCiAqIGdlc2dlCiAqICovCg==</text>
+        <text encoding="base64">c3RydWN0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqLwo=</text>
+        <text encoding="base64">LyoKICogc2dlCiAqIGdlc2dlCiAqICovCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">LyoqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gSGFuZGxlIGV4Y2VwdGlvbiBiZWZvcmUgbWFpbiBiZWdpbnMK</text>
+        <text encoding="base64">LyoqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgLyoqLyAK</text>
+        <text encoding="base64">Ly8gSGFuZGxlIGV4Y2VwdGlvbiBiZWZvcmUgbWFpbiBiZWdpbnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjYXA7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgLyoqLyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBjYXA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2FwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
